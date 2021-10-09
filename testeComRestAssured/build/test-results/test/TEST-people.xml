@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="people" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-09T20:37:19" hostname="DESKTOP-81MN0C2" time="3.983">
+  <properties/>
+  <testcase name="testPeopleStarWars()" classname="people" time="3.983"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
