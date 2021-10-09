@@ -41,7 +41,6 @@ public class people {
     public void testPeopleStarWarsError(){
         RestAssured.defaultParser = Parser.JSON;
         Response response =  given()
-                .header("Content-Type", ContentType.JSON, "Accept", ContentType.JSON)
                 .get("/people/1/")
                 .then()
                 .contentType(ContentType.JSON)
