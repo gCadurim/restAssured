@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="people" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-09T20:51:05" hostname="DESKTOP-81MN0C2" time="5.648">
+<testsuite name="people" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-09T21:10:59" hostname="DESKTOP-81MN0C2" time="7.768">
   <properties/>
-  <testcase name="testPeopleStarWarsError()" classname="people" time="4.424"/>
-  <testcase name="testPeopleStarWars()" classname="people" time="1.223"/>
+  <testcase name="testPeopleStarWarsError()" classname="people" time="6.535"/>
+  <testcase name="testPeopleStarWars()" classname="people" time="1.23"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

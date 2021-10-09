@@ -52,6 +52,4 @@ public class people {
         String nameRoot = response.jsonPath().getString("name");
         assertNotEquals("Luki Skywal", nameRoot);
     }
-
-
 }
